@@ -1,0 +1,4 @@
+name: AllayObtainer
+version: '${project.version}'
+main: lemonjoey.allayobtainer.Main
+api-version: 1.19
